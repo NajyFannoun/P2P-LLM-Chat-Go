@@ -142,6 +142,6 @@ If you want your agent to sound like **you** or specialize for your domain, you 
 
 ---
 
-![P2P LLM Chat Screenshot](../p2p-llm-chat/screenshots/Screenshot.png)
+![P2P LLM Chat Screenshot](../p2p-llm-chat-go/screenshots/Screenshot.png)
 
 ---
