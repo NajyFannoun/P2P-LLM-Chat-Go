@@ -143,8 +143,8 @@ If you want your agent to sound like **you** or specialize for your domain, you 
 ---
 
 <p align="center">
-  <strong>Main Page (blurred for copyright 🚧)</strong><br>
-  <img src="./screenshots/Screenshot" alt="Main Page Placeholder" width="1000" style="border-radius: 15px;" />
+  <strong>( 🚧 )</strong><br>
+  <img src="./screenshots/Screenshot.png" alt="Screenshot Placeholder" width="1000" style="border-radius: 15px;" />
 </p>
 
 ---
