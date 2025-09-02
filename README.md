@@ -141,3 +141,7 @@ If you want your agent to sound like **you** or specialize for your domain, you 
 - Multi-device sync (CRDTs), offline queue, group chats.
 
 ---
+
+![P2P LLM Chat Screenshot](../p2p-llm-chat/screenshots/Screenshot.png)
+
+---
